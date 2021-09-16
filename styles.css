@@ -25,3 +25,19 @@
   .item img {
     display: block;
   }
+
+  .item-relative {
+    position: relative;
+    top: 30px;
+    left: 30px;
+  }
+
+  .item-absolute {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+
+  .absolute {
+    position: relative;
+  }
